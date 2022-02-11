@@ -9,8 +9,11 @@ Password managers, though commonly recommended by security experts, are still no
 ## SWOT Analysis:
 ## Strength:
 Easy to Maintain Best Practices.
+
 Faster Access for Enrolled Employees.
+
 Easy to Manage Shared Accounts.
+
 Easy to Encrypt Data.
 ## Weakness:
 Single point of failure - if someone gets hold of your master password, they have all your passwords.
