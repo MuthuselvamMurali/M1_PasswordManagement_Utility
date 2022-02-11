@@ -22,11 +22,16 @@ The most obvious risk from using a password manager is that it keeps all of your
 
 ## High Level Requirement
 HLR1--> Encryption (E).
+
 HLR2-->Multiple Coders(M).
+
 HLR3-->One-wayFunction(O).
 
 ## Low Level Requirement
 LLR1-->Login(L).
+
 LLR2-->Main Menu(M).
+
 LLR3-->Password Create(P).
+
 LLR4-->Password Retrive Specific(P).
