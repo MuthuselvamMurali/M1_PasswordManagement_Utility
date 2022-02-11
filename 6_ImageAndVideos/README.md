@@ -10,8 +10,6 @@ A password manager assists in generating and retrieving complex passwords, stori
 
 ## Here are some important advantages of using a password management app at your company.
 
-Remove One of the Main Risks of a Data Breach.
-
  Set Security Standards for Logins
 
  Passwords are Accessible on All Devices.
