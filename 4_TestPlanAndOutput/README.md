@@ -1,6 +1,6 @@
 ##  High Level Test Plan
 
-|**Test ID**|**TestCaseScenario**|**TestCase**|**PreCondition**|**TestSteps**|**TestData**|**ExpectedResults**|
+|**Test ID**|**Test Case Scenario**|**Test Case**|**Pre Condition**|**Test Steps**|**Test Data**|**Expected Results**|
 |----|----|----|----|----|----|----|
 |H_01|Verify the login of Mail|Enter valid username and user password| Need a valid Mail to login|Enter username & Password, Click login|Valid username Valid password|Successful login|
 |H_02|Verify the login of Mail|Enter valid username and invalid password|Need a valid Mail to login|Enter username & Password, Click login|Valid username invalid password|The mail and password you entered don't match|
@@ -9,7 +9,7 @@
 
 
 ## Low Level Test Plan
-|**Test ID**|**TestCase**|**TestData**|**ExpectedResult**|
+|**Test ID**|**Test Case**|**Test Data**|**Expected Result**|
 |----|----|----|---|
 |L_01|Enter valid username and user password|valid username valid password|Successful login|
 |L_02|Enter valid username and invalid password|Valid username invalid password|The mail and password you entered don't match|
