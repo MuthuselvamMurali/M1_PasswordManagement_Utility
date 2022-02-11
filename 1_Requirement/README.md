@@ -19,10 +19,9 @@ Easy to Encrypt Data.
 Single point of failure - if someone gets hold of your master password, they have all your passwords.
 Password manager programs are a target for hackers. It's not easy to login using multiple devices.
 ## Opportunities:
-With the increasing internet services penetration, improving communication infrastructure, and data speed improvements, the growing number of internet and mobile users is influencing various businesses, across the world, to adopt the internet to offer their services and products, driving the need for the creation of different profiles by the end-users.
+With the increasing internet services penetration, improving communication infrastructure, and data speed improvements, the growing number of internet and mobile users is influencing various businesses, across the world, to adopt the internet to offer their services and products, driving the need for the creation of different profiles by the end-users.Along with this, enterprises are increasingly adopting security measures to increase accountability by adopting user accounts. Such developments are, in turn, augmenting the demand for password management software.
 ## Threat:
-The most obvious risk from using a password manager is that it keeps all of your sensitive login information in one place, so one breach could be catastrophic.
-
+The most obvious risk from using a password manager is that it keeps all of your sensitive login information in one place, so one breach could be catastrophic. That said, many password managers use numerous layers of security that greatly reduce the chance of your passwords being hacked and shared.
 ## High Level Requirement
 HLR1--> Encryption (E).
 
