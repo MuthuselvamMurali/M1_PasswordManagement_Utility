@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/98859049/153585504-9a25ac63-a23e-417d-9c4c-fd9a590ccc66.png)
 
-Source(Behavior diagram)-- researchgate.net
+Behavior Diagram(Source) - researchgate.net
 
 
 ## Structural Diagram
