@@ -20,3 +20,7 @@ A password manager assists in generating and retrieving complex passwords, stori
 
  Usage Report & Activity Logs.
 
+![1_ImageOfModule](https://user-images.githubusercontent.com/98859049/153697231-215e1513-8226-4edd-b958-243a24f5cbd2.png)
+
+
+![ImageOfModule1](https://user-images.githubusercontent.com/98859049/153697253-28d74a51-4b54-481d-a9b6-b837cdff416f.png)
