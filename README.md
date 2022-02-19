@@ -5,17 +5,18 @@ Password management is a set of principles and best practices to be followed by 
 
 
 
-## Code Quality
+## Code Quality Score
+![code quality score](https://api.codiga.io/project/31081/score/svg)
+ 
+ ## Code Grade
+ ![quality grade](https://api.codiga.io/project/31081/status/svg)
 
-
-
-
-
-
-
-
-
-
-
-
-![Code Quality  Grade](https://user-images.githubusercontent.com/98859049/153606074-007080e9-bd29-43e2-ac85-8c7e9946792e.png)
+|**FOLDER**|**DESCRIPTION**|
+|--|--|
+|0_Certificates|screenshots of certificates obtained|
+|1_Requirements|Documents detalling requirements and reserach|
+|2_Architecture|Documents specifying design details|
+|3_Implementation|All code and documentation|
+|4_TestplanAndOutput|Documentation with test plans and procedures|
+|5_Report|Full report of project|
+|6_ ImagesAndVideos|Screen-shots of the working code|
