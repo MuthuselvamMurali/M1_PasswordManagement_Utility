@@ -1,0 +1,1 @@
+[![Build Linux](https://github.com/MuthuselvamMurali/M1_PasswordManagement_Utility/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/MuthuselvamMurali/M1_PasswordManagement_Utility/actions/workflows/Build_Linux.yml)
