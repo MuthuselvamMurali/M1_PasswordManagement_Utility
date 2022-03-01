@@ -1,0 +1,22 @@
+name: C/C++ CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: apt install dependency
+      run: 
+      sudo apt get -y install valgrid
+      sudo apt get -y install libunit1-doc libunit1-dev
+    - name: Dynamic Analysis
+      run: make Dynamic Analysis -C 3_Implementation
+    
