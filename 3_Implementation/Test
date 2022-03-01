@@ -1,14 +1,14 @@
 {
   "configurations": [
     {
-      "name": "C Runner: Debug Session",
+      "name": "PasswordManagement: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "cwd": "c:\\Users\\ad1\\Desktop\\password manager in c",
+      "cwd": "c:\\Users\\ad1\\Desktop\\PasswordManagement",
       "environment": [],
-      "program": "c:\\Users\\ad1\\Desktop\\password manager in c\\build\\Debug\\outDebug",
+      "program": "c:\\Users\\ad1\\Desktop\\PasswordManagement\\build\\Debug\\outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
