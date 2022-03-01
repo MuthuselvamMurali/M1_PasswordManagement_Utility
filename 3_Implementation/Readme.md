@@ -1,2 +1,3 @@
 [![Build Linux](https://github.com/MuthuselvamMurali/M1_PasswordManagement_Utility/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/MuthuselvamMurali/M1_PasswordManagement_Utility/actions/workflows/Build_Linux.yml)
 [![C/C++ CI](https://github.com/MuthuselvamMurali/M1_PasswordManagement_Utility/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/MuthuselvamMurali/M1_PasswordManagement_Utility/actions/workflows/c-cpp.yml)
+[![unity Test](https://github.com/MuthuselvamMurali/M1_PasswordManagement_Utility/actions/workflows/unity%20Test.yml/badge.svg)](https://github.com/MuthuselvamMurali/M1_PasswordManagement_Utility/actions/workflows/unity%20Test.yml)
