@@ -1,4 +1,0 @@
-https://github.com/codeprimate/password-vault
-https://github.com/princesinghr1/Password-Management
-https://github.com/zarbagmedmehdi/PasswordManagement
-https://github.com/Kuro1013/PasswordManagement
